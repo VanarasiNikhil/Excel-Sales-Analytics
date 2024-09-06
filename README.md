@@ -25,4 +25,6 @@ Customizable Templates: Easily tailor the report to your specific needs and pref
 - [x]	Refined understanding of Sales & Finance Reports
 - [x]	Designing user-centric reports with empathy in mind.
 - [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+- [x]	Developing a systematic approach to devising a report-building plan.
+
+"Permission is granted to download, modify, and use this project for personal or commercial purposes. Please acknowledge the original source and consider contributing to the project if you make significant changes."
